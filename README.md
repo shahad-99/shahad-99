@@ -6,6 +6,19 @@
 
 </div>
 
+<!--
+## 🏆 Profile Trophy Showcase
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahad-99&theme=flat&column=7" alt="GitHub Trophy"/>
+</div>
+
+## 📊 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahad-99&theme=default" alt="GitHub Streak"/>
+</div>
+-->
 ## 🎓 About Me
 
 I'm a passionate mathematics undergraduate who loves to bridge the gap between theoretical concepts and practical implementations through programming. I enjoy solving complex problems and building efficient solutions that combine mathematical rigor with computational thinking.
@@ -26,6 +39,19 @@ I'm a passionate mathematics undergraduate who loves to bridge the gap between t
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+</p>
+
+<!-- Section 10: Languages & Tools with Icons -->
+### **Languages & Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="30" alt="Fortran" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="Markdown" />
 </p>
 
 ## 📚 Academic Interests
@@ -64,8 +90,24 @@ Complete solutions for freeCodeCamp's Relational Database Certification, featuri
 - **Numerical Methods Implementation** - Mathematical computing techniques
 - **Database Design Patterns** - Efficient data organization strategies
 - **Open Source Contributions** - Collaborative development projects
+<!--
+## 📝 Latest Blog Posts
+- [How I Approach Algorithmic Problem Solving](https://medium.com/@shahaduddin01/how-i-approach-algorithmic-problem-solving)
+- [Bridging Math and Code: My Learning Journey](https://dev.to/shahaduddin01/bridging-math-and-code)
 
-## 📫 Let's Connect
+## 🏅 Certifications & Awards
+- freeCodeCamp Relational Database Certification
+- XYZ Coding Hackathon – 2nd Place (2024)
+-->
+## 🎲 Fun Facts
+- I find prime numbers more exciting than most people find celebrities
+- My first programming love was Fortran (yes, seriously!)
+<!--
+## 👥 Open Source Contributions
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) – Database solutions contributor
+- [other-org/example-repo](https://github.com/other-org/example-repo) – Issue triage and bug fixes
+-->
+## 🌐 Connect with Me
 
 <div align="center">
 
@@ -77,6 +119,12 @@ Complete solutions for freeCodeCamp's Relational Database Certification, featuri
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shahaduddin01)
 
 </div>
+
+## 🔢 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahad-99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
 ---
 
